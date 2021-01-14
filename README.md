@@ -1,8 +1,8 @@
 # Data mining project:
 
-    This is a group project done in groups of 3 members each. Please register your group in the grouping activity "Datamining Project Groups" available below.
-    Should identify and solve a challenging problem related to data mining.
-    Hint: Kaggle competitions are acceptable. Although it is discouraged, more than one group may attempt the same problem  as long as the solutions are independent of each other.
+  This is a group project done in groups of 3 members each. Please register your group in the grouping activity "Datamining Project Groups" available below.
+  Should identify and solve a challenging problem related to data mining.
+  Hint: Kaggle competitions are acceptable. Although it is discouraged, more than one group may attempt the same problem  as long as the solutions are independent of each other.
 
 Deliverable:
 
